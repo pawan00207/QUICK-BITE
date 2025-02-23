@@ -48,7 +48,7 @@ Install Dependencies:
 npm install  # For frontend
 pip install -r requirements.txt  # If using Python backend
 
-
+Set Up Environment Variable
 Run the Application:
 
 npm start  # For frontend (using HTML, CSS, Node.js)
