@@ -33,7 +33,7 @@ Ensure you have the following installed:
 Node.js & npm (for front-end development)
 
 HTML, CSS, or Node.js/Express (for back-end development)
-
+ 
 Database (MySQL, PostgreSQL, or Firebase)
 
 Steps
