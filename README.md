@@ -65,4 +65,4 @@ This project is open-source under the MIT License.
 
 Contact
 
-For any queries or feedback, reach out at me - pawan9140582015@gmail.com
+For any queries or feedback, reach out at me - pawan9140582015@gmail.com &   mk7367987@gmail.com
