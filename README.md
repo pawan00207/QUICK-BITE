@@ -48,7 +48,6 @@ Install Dependencies:
 npm install  # For frontend
 pip install -r requirements.txt  # If using Python backend
 
-Set Up Environment Variables:Create a .env file and configure API keys, database credentials, and other settings.
 
 Run the Application:
 
