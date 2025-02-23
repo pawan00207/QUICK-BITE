@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 Node.js & npm (for front-end development)
 
-html , css or Node.js/Express (for back-end development)
+HTML, CSS, or Node.js/Express (for back-end development)
 
 Database (MySQL, PostgreSQL, or Firebase)
 
@@ -40,8 +40,8 @@ Steps
 
 Clone the Repository:
 
-git clone[ https://github.com/@pawan00207/quickbite.git
-cd quickbite](https://github.com/pawan00207)
+git clone https://github.com/@pawan00207/quickbite.git
+cd quickbite
 
 Install Dependencies:
 
@@ -52,8 +52,8 @@ Set Up Environment Variables:Create a .env file and configure API keys, database
 
 Run the Application:
 
-npm start  # For frontend
-we use HTML ,CSS ,NODE-JS ..
+npm start  # For frontend (using HTML, CSS, Node.js)
+
 Access the App:Open http://localhost:5500 (or relevant port) in your browser.
 
 Contribution
@@ -66,4 +66,4 @@ This project is open-source under the MIT License.
 
 Contact
 
-For any queries or feedback, reach out at me - pawan9140582015@gmail.com.
+For any queries or feedback, reach out at me - pawan9140582015@gmail.com
