@@ -54,7 +54,6 @@ We welcome contributions! Feel free to submit issues, pull requests, or suggest 
 
 License
 This project is open-source under the MIT License.
-
 Contact
 For any queries or feedback, reach out at:
 📧 pawan9140582015@gmail.com
