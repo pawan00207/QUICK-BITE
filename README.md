@@ -40,8 +40,8 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/@pawan00207/quickbite.git
-cd quickbite
+git clone[ https://github.com/@pawan00207/quickbite.git
+cd quickbite](https://github.com/pawan00207)
 
 Install Dependencies:
 
